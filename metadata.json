@@ -1,0 +1,7 @@
+{
+  "name": "Supply Chain Risk Intelligence Dashboard",
+  "description": "A comprehensive Supply Chain Control Tower for monitoring disruptions, simulating risk scenarios, and optimizing sourcing strategies using AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
